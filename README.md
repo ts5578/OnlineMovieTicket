@@ -17,6 +17,6 @@ This repository consists of my course project code for DBMS. It is an online mov
 
 I have added my report pdf to this github repository, you can visit it here.
 
-[Result](DBMS Report(1).pdf)
+[Result](DBMS Report (1).pdf)
 
 
